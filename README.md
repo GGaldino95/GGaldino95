@@ -2,8 +2,7 @@
 
 :speech_balloon: Sou um mero padawan programador, estudante de Ciência da Computação na Universidade FUMEC, atualmente no 5º Período. <br>
 :computer: Aprendendo sobre Java, C, e arriscando um Desenvolvimento Web de vez em quando. <br>
-:video_game: Gosto bastante de jogos no geral, e sou guitarrista nas horas vagas. :guitar: <br> <br>
-:exclamation: <i> (OBS: Os projetos desenvolvidos aqui serão feitos em Inglês por eu estar acostumado com a escrita, e os exercícios da faculdade estarão em português pra ter uma leitura didática mais fácil de entender.) </i> :exclamation:
+:video_game: Gosto bastante de jogos no geral, e sou guitarrista nas horas vagas. :guitar: 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,9 +11,8 @@
 :open_file_folder: [Projeto: Sistema de Xadrez [JAVA]](https://github.com/GGaldino95/sistema-xadrez-java) <br>
 
 
-
-
-
+<br> <br>
+:exclamation: <i> (OBS: Os projetos desenvolvidos aqui serão feitos em Inglês por eu estar acostumado com a escrita, e os exercícios da faculdade estarão em português pra ter uma leitura didática mais fácil de entender.) </i> :exclamation:
 <!--
 **GGaldino95/GGaldino95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
