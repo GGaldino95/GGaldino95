@@ -7,7 +7,8 @@
 ------------------------------------------------------------------------------------------------------------------------------
 
 :mag_right: Aqui você vai encontrar toda a minha progressão, desde exercícios simples da faculdade até uns projetinhos legais. <br>
-:open_file_folder: [Exercícios da faculdade](https://github.com/GGaldino95/exercicios-faculdade)
+:open_file_folder: [Exercícios da faculdade](https://github.com/GGaldino95/exercicios-faculdade) <br>
+:open_file_folder: [Projeto: Sistema de Xadrez [JAVA]](https://github.com/GGaldino95/sistema-xadrez-java) <br>
 
 
 
