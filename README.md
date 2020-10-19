@@ -1,8 +1,9 @@
 ## Olá mundo,
 
-💬 Sou um mero padawan programador, estudante de Ciência da Computação na Universidade FUMEC, atualmente no 5º Período. <br>
+:speech_balloon: Sou um mero padawan programador, estudante de Ciência da Computação na Universidade FUMEC, atualmente no 5º Período. <br>
 :computer: Aprendendo sobre Java, C, e arriscando um Desenvolvimento Web de vez em quando. <br>
-:video_game: Gosto bastante de jogos no geral, e sou guitarrista nas horas vagas. :guitar:
+:video_game: Gosto bastante de jogos no geral, e sou guitarrista nas horas vagas. :guitar: <br> <br>
+:exclamation: <i> (OBS: Os projetos desenvolvidos aqui serão feitos em Inglês por eu estar acostumado com a escrita, e os exercícios da faculdade estarão em português pra ter uma leitura didática mais fácil de entender.) </i> :exclamation:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
