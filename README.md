@@ -15,7 +15,9 @@
 :exclamation: <i> (OBS: Os projetos desenvolvidos aqui serão feitos em Inglês por eu estar acostumado com a escrita, e os exercícios da faculdade estarão em português pra ter uma leitura didática mais fácil de entender.) </i> :exclamation:
 
 ____________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________
 ## Hello World,
+
 
 :speech_balloon: I am a padawan programmer, Computer Science student at FUMEC University (5th Semester) and Full-Stack Web Development student at Trybe. <br>
 :computer: Learning about Java, C, Python and Web development (Full-Stack). <br>
