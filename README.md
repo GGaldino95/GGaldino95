@@ -3,7 +3,7 @@
 :speech_balloon: Eu sou o Gal, um mero padawan programador, estudante de Ciência da Computação na Universidade FUMEC (5º Período) e estudante de Desenvolvimento Web Full-Stack na Trybe. <br>
 :computer: Aprendendo sobre Java, C, Python e Desenvolvimento Web (Full-Stack). <br>
 :video_game: Gosto bastante de jogos no geral, e sou guitarrista nas horas vagas. :guitar: 
-<br>
+<br><br>
 :mag_right: Aqui você vai encontrar toda a minha progressão, desde exercícios simples da faculdade até uns projetinhos legais. <br>
 :open_file_folder: [[TRYBE] Curso de Desenvolvimento Web Full-Stack](https://github.com/GGaldino95/trybe-course) <br>
 :open_file_folder: [[FUMEC] Exercícios da faculdade](https://github.com/GGaldino95/exercicios-faculdade) <br>
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 :speech_balloon: I'm Gal, a padawan programmer, Computer Science student at FUMEC University (5th Semester) and Full-Stack Web Development student at Trybe. <br>
 :computer: Learning about Java, C, Python and Web development (Full-Stack). <br>
 :video_game: I really like games in general, and I'm a guitar player in my spare time. :guitar:
-<br>
+<br><br>
 :mag_right: Here you will find all my progression, from simple college exercises to cool little projects. <br>
 :open_file_folder: [[TRYBE] Full-Stack Web Development course](https://github.com/GGaldino95/trybe-course) <br>
 :open_file_folder: [[FUMEC] College exercises](https://github.com/GGaldino95/exercicios-facúde) <br>
