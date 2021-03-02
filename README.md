@@ -1,6 +1,6 @@
 ## Olá mundo,
 
-:speech_balloon: Eu sou o Gal, um mero padawan programador, estudante de Ciência da Computação na Universidade FUMEC (5º Período) e estudante de Desenvolvimento Web Full-Stack na Trybe. <br>
+:speech_balloon: Eu sou o Gal, um mero padawan programador, estudante de Ciência da Computação na Universidade FUMEC (6º Período) e estudante de Desenvolvimento Web Full-Stack na Trybe. <br>
 :computer: Aprendendo sobre Java, C, Python e Desenvolvimento Web (Full-Stack). <br>
 :video_game: Gosto bastante de jogos no geral, e sou guitarrista nas horas vagas. :guitar: 
 <br><br>
@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ## Hello World,
 
 
-:speech_balloon: I'm Gal, a padawan programmer, Computer Science student at FUMEC University (5th Semester) and Full-Stack Web Development student at Trybe. <br>
+:speech_balloon: I'm Gal, a padawan programmer, Computer Science student at FUMEC University (6th Semester) and Full-Stack Web Development student at Trybe. <br>
 :computer: Learning about Java, C, Python and Web development (Full-Stack). <br>
 :video_game: I really like games in general, and I'm a guitar player in my spare time. :guitar:
 <br><br>
