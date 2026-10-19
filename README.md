@@ -1,36 +1,18 @@
-## Hello World,
+## Hi, I'm Gabriel 👋
 
-:speech_balloon: I'm Gal, a padawan programmer, Computer Science student at FUMEC University (6th Semester) and Full-Stack Web Development student at Trybe. <br>
-:computer: Learning about Java, C, Python and Web development (Full-Stack). <br>
-:video_game: I really like games in general, and I'm a guitar player in my spare time. :guitar:
+Full-stack developer at Rethink, based in Belo Horizonte, Brazil. Front-end at heart
+(React, Next.js, TypeScript), with hands-on back-end and cloud work (Node.js, Strapi, GraphQL, AWS).
 
-<br><br>
+- **Now, BH Airport:** sole developer of the airport's platform: a multilingual Next.js site,
+  a Strapi CMS, and a serverless flight-data service on AWS Lambda.
+- **2022 to 2025, Smiles (Gol):** lead developer of the Hotels, Car Rental and Trains search
+  micro-frontends on a single-spa platform. Promoted Jr → Mid in Nov 2023.
+- **On the side:** a portfolio (Next.js + Sanity) where my bootcamp projects run live in the
+  browser, and the back-end ones get an interactive API console.
 
-:mag_right: Here you will find all my progression, from simple college exercises to cool little projects. <br>
-:open_file_folder: [[TRYBE] Full-Stack Web Development course](https://github.com/GGaldino95/trybe-course) <br>
-:open_file_folder: [[FUMEC] College exercises](https://github.com/GGaldino95/exercicios-facúde) <br>
-:open_file_folder: [[JAVA] Project: Chess System](https://github.com/GGaldino95/sistema-xadrez-java) <br>
+### Where to look
+- [trybe-course](https://github.com/GGaldino95/trybe-course): every project from the Trybe
+  Full-Stack bootcamp (Nov 2020 to Dec 2021), from front end to back end to CS.
+- [sistema-xadrez-java](https://github.com/GGaldino95/sistema-xadrez-java): a chess system in Java.
 
-<br>
-:exclamation: <i> (NOTE: The projects developed here will be done in English because I am used to writing, and the college exercises will be in Portuguese to have an easier reading comprehension.) </i>:exclamation:
-<br><br>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggaldino95&show_icons=true&theme=github_dark)](https://github.com/ggaldino95/github-readme-stats)
-
-<span/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggaldino95&&layout=compact&theme=github_dark)](https://github.com/ggaldino95/github-readme-stats)
-<!--
-**GGaldino95/GGaldino95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/ggaldino95/)
